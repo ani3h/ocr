@@ -40,7 +40,6 @@ tmp/
 *.tmp
 
 # OCR model files (large files)
-models/
 *.pkl
 *.h5
 *.pb
